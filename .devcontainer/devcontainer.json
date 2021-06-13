@@ -1,6 +1,7 @@
 {
   "name": "project-name",
   "dockerFile": "Dockerfile",
+  "appPort": [3001],
   "extensions": [
     "ms-azuretools.vscode-docker",
     "dbaeumer.vscode-eslint",
