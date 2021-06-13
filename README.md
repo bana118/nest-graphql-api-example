@@ -1,9 +1,10 @@
-# node-container-template
+# nest-graphql-api-example
 
-Template of vscode remote development container with Node.js
+Nest.js + GraphQL のサンプル
 
-# Install dependencies
+# How to get started
 
 ```
 yarn install --frozen-lockfile
+yarn start:dev
 ```
